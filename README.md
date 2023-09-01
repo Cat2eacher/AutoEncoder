@@ -9,5 +9,5 @@ MIIST-based AutoEncoder
 - 4、train_plt.py （optional）训练过程对训练效果的可视化，通过plt实现
 - 4、train_tensorboard.py （optional）训练过程对训练效果的可视化，通过tensorboard实现
 
-注：目前存在问题是，运行train_plt.py文件，在CPU上运行没有问题。在GPU上会报数据出现在两种设备的错误。
-还不知道怎么修正。
+==注：目前存在问题是，运行train_plt.py文件，在CPU上运行没有问题。在GPU上会报数据出现在两种设备的错误。
+还不知道怎么修正。==
